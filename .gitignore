@@ -1,2 +1,7 @@
 env/
 **/alembic/versions/**
+*.pyc
+.vscode
+.idea
+.env
+__pycache__/
