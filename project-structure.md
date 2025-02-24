@@ -1,3 +1,5 @@
+
+```
 fastapi_project/
 │── app/
 │   ├── api/
@@ -39,3 +41,4 @@ fastapi_project/
 │── requirements.txt
 │── Dockerfile
 │── README.md
+```
