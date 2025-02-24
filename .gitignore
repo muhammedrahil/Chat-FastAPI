@@ -1,7 +1,16 @@
+# Virtual environment
 env/
-**/alembic/versions/**
+
+# Alembic migrations
+/alembic/versions/**
+
+# Python cache
 *.pyc
-.vscode
-.idea
-.env
 __pycache__/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Environment variables
+.env
